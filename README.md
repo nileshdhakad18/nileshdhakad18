@@ -26,3 +26,7 @@
 | Nilesh's GitHub Stats | GitHub Streak |
 | --- | --- |
 [![Nilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=nileshdhakad18&show_icons=true)](https://github.com/nileshdhakad18) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nileshdhakad18)](https://github.com/nileshdhakad18) |
+
+---
+
+[![@nileshdhakad18+'s Holopin Badges](https://holopin.me/nileshdhakad18)](https://holopin.io/@nileshdhakad18)
