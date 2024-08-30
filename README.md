@@ -35,7 +35,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
 
-  --
+
 
 ## &#x1f4c8; My GitHub Stats
 | Nilesh's GitHub Stats | GitHub Streak |
