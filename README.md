@@ -5,10 +5,10 @@
 ---
 
 ### 🚀 About Me
-- I'm a 2st-year B. Tech. (CSBS) student at School of Information Techonology, RGPV.
-- Passionate about Web Development and Graphic Designing.
+- I'm a 3rd-year B. Tech. (CSBS) student at the School of Information Technology, RGPV.
+- Passionate about Web Development.
 - Looking to collaborate with other developers. 
-- Learning more tools and technologies which are mentioned below to build big projects.
+- Learning more tools and technologies mentioned below to build big projects.
 
 ---
 
