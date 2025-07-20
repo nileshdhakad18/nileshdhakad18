@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- I'm a 3rd-year B. Tech. (CSBS) student at the School of Information Technology, RGPV.
+- I'm a 4th-year B. Tech. (CSBS) student at the School of Information Technology, RGPV.
 - Passionate about Web Development.
 - Looking to collaborate with other developers. 
 - Learning more tools and technologies mentioned below to build big projects.
