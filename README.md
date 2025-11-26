@@ -1,23 +1,22 @@
 <img align="right" height="160" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
-### Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Nilesh Dhakad is here!
-
-![header](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png)
+### Hello folks 👋, Nilesh is here🧑‍💻  
+<!-- ![header](https://user-images.githubusercontent.com/80106274/155994781-7c22a80e-99b6-4e2e-a288-a706e1818289.png) -->
 
 ---
 
 ### 🚀 About Me
-- I'm a 4th-year B. Tech. (CSBS) student at the School of Information Technology, RGPV.
-- Passionate about Web Development.
-- Looking to collaborate with other developers. 
-- Learning more tools and technologies mentioned below to build big projects.
+- 4th-year B. Tech. (CSBS) student @ **SOIT, RGPV**
+- Passionate about **Web Development & UI perfection**
+- Looking to collaborate — coffee accepted as payment ☕
+- Currently adding new skills to reduce my debugging tears 🥲
 
 ---
 
 ### 🧰 Toolbox
 
 #### 🌐 Frontend  
-<p style="margin-bottom:10px;">
+<p align="left">
   <img height="34" src="https://skillicons.dev/icons?i=html" />
   <img height="34" src="https://skillicons.dev/icons?i=css" />
   <img height="34" src="https://skillicons.dev/icons?i=js" />
@@ -26,7 +25,7 @@
 </p>
 
 #### ⚙ Tools  
-<p style="margin-bottom:10px;">
+<p align="left">
   <img height="34" src="https://skillicons.dev/icons?i=git" />
   <img height="34" src="https://skillicons.dev/icons?i=github" />
   <img height="34" src="https://skillicons.dev/icons?i=vscode" />
@@ -34,22 +33,28 @@
   <img height="34" src="https://skillicons.dev/icons?i=npm" />
 </p>
 
-#### 🚀 Learning Next  
-<p>
+#### 🚀 Currently Learning  
+<p align="left">
   <img height="34" src="https://skillicons.dev/icons?i=typescript" />
   <img height="34" src="https://skillicons.dev/icons?i=nextjs" />
   <img height="34" src="https://skillicons.dev/icons?i=express" />
   <img height="34" src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
+---
+
+## 📈 GitHub Activity Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nileshdhakad18" height="170"/>
+</p>
 
 ---
 
-## 📈 My GitHub Stats
-| Nilesh's GitHub Stats | GitHub Streak |
-| --- | --- |
-| ![](https://github-readme-stats.vercel.app/api?username=nileshdhakad18&show_icons=true) | ![](https://github-readme-streak-stats.herokuapp.com?user=nileshdhakad18) |
+### 🏅 Holopin Badge Rack  
+<p align="center">
+  <a href="https://holopin.io/@nileshdhakad18">
+    <img src="https://holopin.me/nileshdhakad18" width="700" />
+  </a>
+</p>
 
 ---
-
-[![@nileshdhakad18's Holopin Badges](https://holopin.me/nileshdhakad18)](https://holopin.io/@nileshdhakad18)
