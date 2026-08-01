@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 4th-year B. Tech. (CSBS) student @ **SOIT, RGPV**
+- B. Tech. (CSBS) 26'Grad @ **SOIT, RGPV**
 - Passionate about **Web Development & UI perfection**
 - Looking to collaborate — coffee accepted as payment ☕
 - Currently adding new skills to reduce my debugging tears 🥲
